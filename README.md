@@ -22,7 +22,7 @@
 
 # Quick Start
 ```bash
-mkdir -p AutoMTProxy && cd AutoMTProxy && curl -sO [https://raw.githubusercontent.com/Riffee/AutoMTProxy/main/automtproxy.sh](https://raw.githubusercontent.com/Riffee/AutoMTProxy/main/automtproxy.sh) && chmod +x automtproxy.sh && ./automtproxy.sh
+mkdir -p AutoMTProxy && cd AutoMTProxy && curl -O https://raw.githubusercontent.com/Riffee/AutoMTProxy/main/automtproxy.sh && chmod +x automtproxy.sh && ./automtproxy.sh
 ```
 
 # System Requirements
